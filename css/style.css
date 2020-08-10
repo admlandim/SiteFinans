@@ -1,0 +1,59 @@
+#rd_home {
+	background: #ffc107;
+	color: white;
+}
+
+.navbar {
+   opacity: 0.9;
+   
+}
+html	{
+	scroll-behavior: smooth;
+}
+
+html,body {
+    width: 100%;
+    height:100%;
+}
+
+html,body {
+    width: 100%;
+    height:100%;
+}
+
+html,body, section {
+	
+    height:100%;
+}
+
+.row {
+
+	height:100%;
+
+}
+
+.height-40 {
+	height: 40vh;
+	background: #ffc107;
+	opacity: 0.9;
+}
+
+
+.caixa {
+	padding: 50px 0;
+	
+
+}
+
+footer p a {
+	margin: 5px 15px;
+
+}
+
+footer {
+	background: #ffc107;
+	opacity: 0.9;
+
+}
+
+
